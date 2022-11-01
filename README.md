@@ -6,7 +6,7 @@ An implementation of Loop 1 assignment step 6 with HTML/CSS
 clone or download this respository and run with a local server of open 'index.html' with your favorite browser
 
 # Prequisite
-Your browser version must be recent for a better experience https://github.com/RrLSn/Loop1Step3.git
+Your browser version must be recent for a better experience https://github.com/RrLSn/Loop1Step6.git
 
 # Tech/framework used
 HTML
